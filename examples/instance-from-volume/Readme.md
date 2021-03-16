@@ -1,4 +1,4 @@
-# instance-from-volume
+# Instance From Volume
 
 This is just a simple example and will setup the following:
 

@@ -1,4 +1,4 @@
-# single-instance
+# Single Instance
 
 This is just a simple example and will setup the following:
 

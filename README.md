@@ -21,9 +21,9 @@ You need to met the following requirements in order to use this examples.
 
 | Example name | Description | |
 | :--- | :--- | :--- |
-| single-instance | A very basic example. Create a router, network and instance with floating IP. | [Readme](examples/single-instance/Readme.md) |
-| instance-from-volume | Basic example booting an instance from volume | [Readme](examples/instance-from-volume/Readme.md) |
-| vrrp-address-pair | Bring up keepalived with a VIP using OpenStack address-pair | [Readme](examples/vrrp-address-pair/Readme.md) |
+| single-instance | A very basic example. Create a router, network and instance with floating IP. | [Readme](examples/single-instance) |
+| instance-from-volume | Basic example booting an instance from volume | [Readme](examples/instance-from-volume) |
+| vrrp-address-pair | Bring up keepalived with a VIP using OpenStack address-pair | [Readme](examples/vrrp-address-pair) |
 
 Note: For all examples we use the network `192.168.1.0/24`. Make sure you use it not already in your Andromeda project.
 
