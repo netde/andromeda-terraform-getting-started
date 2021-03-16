@@ -1,4 +1,4 @@
-# vrrp-address-pair
+# VRRP Address Pair
 
 This example will deploy an high available instance pair using VRRP. To get VRRP working we use OpenStack `allowed_address_pairs`. Allowed Address Pairs the port attribute to enable you to specify arbitrary `mac_address/ip_address(cidr)` pairs that are allowed to pass-through a port, regardless of the subnet associated with the network.
 
