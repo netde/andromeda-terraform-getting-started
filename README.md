@@ -1,4 +1,4 @@
-# andromeda-terraform
+# Andromeda Terraform - Getting Started 
 
 Terraform examples using net.DE Andromeda Cloud based on OpenStack.
 
